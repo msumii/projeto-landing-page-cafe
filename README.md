@@ -1,6 +1,7 @@
-# Projeto de Estudo - Landing Page Café
+# Projeto de Estudo - Landing Page Café☕
+<a href="https://msumii.github.io/projeto-landing-page-cafe/" target="_blank"><img src="./gif-landing-page.gif" alt="gif da tela do projeto landing page café"></a>
 
-<img src="./gif-landing-page.gif" alt="gif da tela do projeto landing page café"> 
+### Clique no GIF para abrir o site👆
 
 ## Por que eu fiz esse projeto?🤗
 
